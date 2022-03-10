@@ -13,3 +13,11 @@ input, textarea {
     float: left;
     margin: 5px;
 }
+
+.carousel-transition{
+    transition: transform 2s ease;
+}
+
+.d-block {    
+    height: 300px;
+}
